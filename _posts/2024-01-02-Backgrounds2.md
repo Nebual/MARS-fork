@@ -1,6 +1,5 @@
 ---
-title: Backgrounds
-date: 2024-01-01
+title: Backgrounds 2
 category: Jekyll
 layout: post
 ---

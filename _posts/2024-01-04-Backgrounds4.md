@@ -1,8 +1,4 @@
 ---
-title: Backgrounds
-date: 2024-01-01
-category: Jekyll
-layout: post
 ---
 # Medieval Backgrounds
 
