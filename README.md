@@ -6,6 +6,15 @@ The **Modular Adventure Role-playing System** or **MARS-fork** is a [generic rol
 
 All of the cores rules are defined in the [**Player's Handbook**](/Basic/PHB.md). Additional information and reference tables can be found in the [**Appendix**](/Basic/Appendix.md).
 
+Things:
+
+* [Bk](/posts/Bk.md)
+* [Bk2](/Bk.md)
+* [Bk3](/_posts/Bk.md)
+
+* [Background](/posts/Background.md)
+* [Background](/posts/2024-01-01-Background.md)
+
 Once you have learned the rules and are ready to create a character, you will need to follow the steps as outlined in [**Creating a Character**](/Basic/PHB.md#creating-a-character). The following links will provide you with the information necessary to create a character, with some content marked with their genre:
 
 * Character Creation
