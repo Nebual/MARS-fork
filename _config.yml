@@ -21,6 +21,8 @@ encoding            : "utf-8"
 markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
 strict_front_matter : false
 
+remote_theme: sighingnow/jekyll-gitbook
+
 # Filtering Content
 show_drafts         : null
 limit_posts         : 0
